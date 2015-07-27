@@ -20,7 +20,7 @@ package main.scala.org.scala.lession02
  * 　　　　　┃┫┫　┃┫┫
  * 　　　　　┗┻┛　┗┻┛
  * ━━━━━━感觉萌萌哒━━━━━━
- * Module Desc:将Map("1"->Map("2"->"3"))转化为正确的json
+ * Module Desc:如何让一个字符串，例如"cool", 不eq "cool", scala中的symbol是什么
  * User: wangyue
  * DateTime: 15-7-22下午8:42
  */
